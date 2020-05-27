@@ -1,6 +1,12 @@
 {
   "car": [
     {
+  "id": "0",
+  "name": "XC40 Recharge",
+  "url": "https://assets.volvocars.com/~/media/caas/consumers/impressions/xc40-pure-electric/colorviewer/707_f0f4fe_crystal-white-pearl_final.png",
+      "model": []
+},
+    {
   "id": "1",
   "name": "XC90 T8 Twin Engine E-AWD",
   "url": "https://assets.volvocars.com/us/~/media/us/images/electrification/updated-models/xc90-t8-twin-engine-hybrid-electric-awd-suv.jpg",
