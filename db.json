@@ -4,7 +4,7 @@
   "id": "1",
   "name": "XC90 T8 Twin Engine E-AWD",
   "url": "https://assets.volvocars.com/us/~/media/us/images/electrification/updated-models/xc90-t8-twin-engine-hybrid-electric-awd-suv.jpg",
-      "model: [
+      "model": [
     {"name": "T8 eAWD Momentum 6 Seat"},
     {"name": "T8 eAWD Momentum 7 Seat"},
     {"name": "T8 eAWD R-Design 7 Seat"},
@@ -16,7 +16,7 @@
   "id": "2",
   "name": "S90 T8 Twin Engine E-AWD",
   "url": "https://assets.volvocars.com/us/~/media/us/images/electrification/updated-models/s90electrification-v2.jpg",
-   "model: [
+   "model": [
     {"name": "T8 eAWD R-Design"},
     {"name": "T8 eAWD Inscription"}
       ]
@@ -25,7 +25,7 @@
   "id": "3",
   "name": "S60 T8 Twin Engine E-AWD,
   "url": "https://assets.volvocars.com/us/~/media/us/images/electrification/updated-models/volvo-s60-electrification-v5.jpg",
-    "model: [
+    "model": [
     {"name": "T8 eAWD R-Design"},
     {"name": "T8 eAWD Inscription"},
     {"name": "T8 eAWD Polestar"}
@@ -35,7 +35,7 @@
   "id": "4",
   "name": "XC60 T8 Twin Engine E-AWD",
   "url": "https://assets.volvocars.com/us/~/media/us/images/electrification/updated-models/xc60-t8-twin-engine-hybrid-electric-awd-suv.jpg",
-       "model: [
+       "model": [
     {"name": "T8 eAWD Momentum"},
     {"name": "T8 eAWD R-Design"},
     {"name": "T8 eAWD Inscription"},
@@ -47,7 +47,7 @@
   "id": "5",
   "name": "V60 T8 Twin Engine E-AWD",
   "url": "https://assets.volvocars.com/us/~/media/us/images/electrification/updated-models/v60electrification-v2.jpg",
-        "model: [
+        "model": [
     {"name": "T8 eAWD Polestar"}
       ]
 }
